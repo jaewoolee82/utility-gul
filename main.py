@@ -10,7 +10,6 @@ import os
 
 root = Tk()
 root.title("유틸")
-root.iconbitmap("app.ico")
 root.geometry("420x170")
 root['background']='#856ff8'
 bot_id = "869029507019968512" # 디스코드 봇 아이디 (Koreanbots에 등록돼있는 경우만)
