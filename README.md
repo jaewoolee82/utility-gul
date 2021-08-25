@@ -1,2 +1,2 @@
 # utility-gul
-GUI 입니다.
+심심해서 만든 GUI 입니다.
